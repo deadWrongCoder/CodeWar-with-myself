@@ -7,7 +7,7 @@
 Solution link: 
 
 **2. The second task can be described as such:**  
- <p> I need to find a list of keys from **dict** that doesn't include numbers from **list**
+ <p> I need to find a list of keys from **dict** which values don't include numbers from **list**
  <p> Example:
 <code>  <p> Input: dict = {"key1": [1, 2, 3], "key2": [2, 3, 4], "key3": [9, 0, 3]}
 <p> list [1, 2]
